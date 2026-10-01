@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ScoerApplication/ScoerApplication.vcxproj" Id="936c7e43-6172-4e46-ba48-dc10915fad41" />
+</Solution>
